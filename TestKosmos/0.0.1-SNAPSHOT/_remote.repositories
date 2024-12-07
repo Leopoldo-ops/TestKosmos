@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 07 12:48:31 CST 2024
+TestKosmos-0.0.1-SNAPSHOT.war>=
+TestKosmos-0.0.1-SNAPSHOT.pom>=
+TestKosmos-0.0.1-SNAPSHOT.jar>=
